@@ -1,2 +1,2 @@
 # Shibata-worldmap-editor
-Worldmap editor 
+Worldmap editor dev stand: 0%
